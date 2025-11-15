@@ -2,7 +2,7 @@
 ==============================================================
    PROYECTO 1 — CÍRCULO QUE SIGUE AL RATÓN
    Lenguaje: Processing
-   Nivel: 1 (Iniciación)
+   Nivel: Iniciación
 ==============================================================
 
 OBJETIVO DEL PROYECTO
@@ -18,7 +18,6 @@ CONTENIDOS TRABAJADOS
 - background() → limpia la pantalla.
 - ellipse() → dibuja un círculo.
 - mouseX / mouseY → posición actual del ratón.
-- El ordenador redibuja la ventana constantemente → movimiento fluido.
 
 IDEAS DE AMPLIACIÓN
 1. Convertirlo en una “linterna” con fondo oscuro.
