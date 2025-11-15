@@ -23,6 +23,14 @@ Cada proyecto incluye:
   - Conceptos trabajados
   - Explicación del código
   - Propuestas de ampliación
+ 
+### Lista de proyectos incluidos
+
+**01-circulo-raton.pde:**  
+Proyecto básico para introducir:
+- draw()
+- mouseX, mouseY
+- animación simpl
 
 ## Licencia
 
