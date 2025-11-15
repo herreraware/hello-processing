@@ -14,7 +14,7 @@ OBJETIVO DEL PROYECTO
 
 CONTENIDOS TRABAJADOS
 - setup() → se ejecuta una sola vez (configuración inicial).
-- draw() → se repite unas 60 veces por segundo (animación).
+- draw() → se repite indefinidamente (animación).
 - background() → limpia la pantalla.
 - ellipse() → dibuja un círculo.
 - mouseX / mouseY → posición actual del ratón.
@@ -35,13 +35,13 @@ IDEAS DE AMPLIACIÓN
 // La función setup() se ejecuta solo una vez al iniciar el programa.
 // Se usa para definir el tamaño de la ventana y configuraciones iniciales.
 void setup() {
-  size(600, 400);     // Ancho: 600 píxeles, Alto: 400 píxeles
-  smooth();           // Suaviza los bordes del círculo
+  size(600, 400);                    // Ancho: 600 píxeles, Alto: 400 píxeles
+  smooth();                          // Suaviza los bordes del círculo
 }
 
 // La función draw() se repite unas 60 veces por segundo.
 // Aquí va todo el código que queremos animar o actualizar continuamente.
 void draw() {
-  background(240);    // Limpia la pantalla en cada fotograma (gris claro)
-  ellipse(mouseX, mouseY, 80, 80); // Dibuja un círculo cuya posición coincide con la del ratón
+  background(240);                   // Limpia la pantalla en cada fotograma (gris claro)
+  ellipse(mouseX, mouseY, 80, 80);   // Dibuja un círculo cuya posición coincide con la del ratón
 }
