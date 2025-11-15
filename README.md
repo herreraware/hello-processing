@@ -2,10 +2,10 @@
 Proyectos de Processing para ESO y Bachillerato. Actividades listas para clase con código y explicaciónes
 
 Este repositorio forma parte de una colección de materiales para materias como:
-- Programación y Computación
-- Pensamiento Computacional  
-- TIC  
-- Computación y Robótica 
+- Programación y Computación.
+- Pensamiento Computacional.  
+- TIC.  
+- Computación y Robótica. 
 
 ## Objetivos del repositorio
 - Proporcionar proyectos y actividades listos para usar en clase.
@@ -19,17 +19,17 @@ Este repositorio forma parte de una colección de materiales para materias como:
 Cada proyecto incluye:
 - Código en formato `.pde`
 - Comentarios con:
-  - Objetivo
-  - Conceptos trabajados
-  - Explicación del código
-  - Propuestas de ampliación
+  - Objetivo.
+  - Conceptos trabajados.
+  - Explicación del código.
+  - Propuestas de ampliación.
  
 ### Lista de proyectos incluidos:
 
 **01-circulo-raton.pde:** proyecto básico para introducir:
-- draw()
-- mouseX, mouseY
-- animación simpl
+- draw().
+- mouseX, mouseY.
+- animación simple.
 
 ## Licencia
 
@@ -43,6 +43,6 @@ Agradece mencionar la autoría original si reutilizas el contenido.
 
 ## Contacto
 
-- Instagram: https://instagram.com/herreraware
-- GitHub: https://github.com/herreraware
-- Recursos completos y packs: proximamente
+- Instagram: https://instagram.com/herreraware.
+- GitHub: https://github.com/herreraware.
+- Recursos completos y packs: proximamente.
