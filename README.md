@@ -34,7 +34,7 @@ Este repositorio se publica bajo licencia **MIT**, lo que permite:
 
 Agradece mencionar la autoría original si reutilizas el contenido.
 
-## 📬 Contacto
+## Contacto
 
 - Instagram: https://instagram.com/herreraware
 - GitHub: https://github.com/herreraware
